@@ -48,8 +48,7 @@ A modern, full-stack Event Management Dashboard built with **Next.js 15**, **Pos
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd assignment
+git clone https://github.com/Basantrajshakti/event-manager .
 ```
 
 ### 2. Install Dependencies
